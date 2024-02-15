@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="1000.0" prefWidth="1315.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rentalsystem.BookController">
+    <children>
+        <BorderPane layoutX="57.0" layoutY="14.0" prefHeight="1000.0" prefWidth="1315.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <left>
+                <VBox prefHeight="200.0" prefWidth="435.0" stylesheets="@../../../values/Style.css" BorderPane.alignment="CENTER">
+                    <children>
+                        <HBox alignment="CENTER" prefHeight="110.0" prefWidth="200.0">
+                            <children>
+                                <Label prefHeight="85.0" prefWidth="91.0" text="Book">
+                                    <font>
+                                        <Font name="Charm Regular" size="48.0" />
+                                    </font>
+                                </Label>
+                                <Label prefHeight="110.0" prefWidth="226.0" text="Rental">
+                                    <font>
+                                        <Font name="Chalkboard" size="64.0" />
+                                    </font>
+                                </Label>
+                            </children>
+                        </HBox>
+                        <HBox alignment="CENTER" prefHeight="65.0" prefWidth="200.0" stylesheets="@../../../values/Style.css">
+                            <VBox.margin>
+                                <Insets left="30.0" right="30.0" />
+                            </VBox.margin>
+                            <children>
+                                <TextField prefHeight="40.0" prefWidth="245.0" promptText="search for books" styleClass="transparent" stylesheets="@../../../values/Style.css">
+                                    <font>
+                                        <Font name="Charm Regular" size="18.0" />
+                                    </font>
+                                </TextField>
+                                <Button mnemonicParsing="false" prefHeight="40.0" prefWidth="106.0" styleClass="search-button" stylesheets="@../../../values/Style.css" text="Search" />
+                            </children>
+                            <styleClass>
+                                <String fx:value="search-box" />
+                                <String fx:value="shadow" />
+                            </styleClass>
+                        </HBox>
+                        <VBox prefHeight="316.0" prefWidth="475.0" stylesheets="@../../../values/Style.css">
+                            <children>
+                                <HBox prefHeight="100.0" prefWidth="200.0">
+                                    <children>
+                                        <Label prefHeight="108.0" prefWidth="261.0" text="Computer Science">
+                                            <font>
+                                                <Font size="24.0" />
+                                            </font>
+                                        </Label>
+                                    </children>
+                                </HBox>
+                                <HBox prefHeight="263.0" prefWidth="400.0">
+                                    <children>
+                                        <ImageView fitHeight="264.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                                            <image>
+                                                <Image url="@../../../../../../../../Git/books/th%20(3).jpeg" />
+                                            </image>
+                                            <HBox.margin>
+                                                <Insets right="10.0" />
+                                            </HBox.margin>
+                                        </ImageView>
+                                        <ImageView fitHeight="291.0" fitWidth="215.0" pickOnBounds="true" preserveRatio="true">
+                                            <image>
+                                                <Image url="@../../../../../../../../Git/books/th%20(5).jpeg" />
+                                            </image>
+                                        </ImageView>
+                                    </children>
+                                </HBox>
+                            </children>
+                            <padding>
+                                <Insets left="30.0" right="30.0" />
+                            </padding>
+                        </VBox>
+                        <VBox layoutX="10.0" layoutY="185.0" prefHeight="67.0" prefWidth="485.0" stylesheets="@../../../values/Style.css">
+                            <children>
+                                <HBox prefHeight="100.0" prefWidth="200.0">
+                                    <children>
+                                        <Label prefHeight="108.0" prefWidth="261.0" text="Business">
+                                            <font>
+                                                <Font size="24.0" />
+                                            </font>
+                                        </Label>
+                                    </children>
+                                </HBox>
+                            </children>
+                            <padding>
+                                <Insets left="30.0" right="30.0" />
+                            </padding>
+                        </VBox>
+                        <HBox prefHeight="240.0" prefWidth="485.0">
+                            <padding>
+                                <Insets bottom="10.0" />
+                            </padding>
+                            <children>
+                                <ImageView fitHeight="217.0" fitWidth="162.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../../../../../../../../Git/books/th%20(12).jpeg" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="264.0" fitWidth="326.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../../../../../../../../Git/books/th%20(13).jpeg" />
+                                    </image>
+                                </ImageView>
+                            </children>
+                        </HBox>
+                        <HBox prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="75.0" fitWidth="73.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../../../../../../../../Git/6424084.png" />
+                                    </image>
+                                    <HBox.margin>
+                                        <Insets bottom="10.0" left="30.0" right="30.0" top="10.0" />
+                                    </HBox.margin>
+                                </ImageView>
+                                <ImageView fitHeight="90.0" fitWidth="166.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../../../../../../../../Git/6422202.png" />
+                                    </image>
+                                    <HBox.margin>
+                                        <Insets left="40.0" />
+                                    </HBox.margin>
+                                </ImageView>
+                                <ImageView fitHeight="90.0" fitWidth="166.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../../../../../../../../Git/3916631.png" />
+                                    </image>
+                                    <HBox.margin>
+                                        <Insets left="40.0" />
+                                    </HBox.margin>
+                                </ImageView>
+                            </children>
+                        </HBox>
+                        <HBox alignment="CENTER" prefHeight="51.0" prefWidth="485.0">
+                            <children>
+                                <Label prefHeight="53.0" prefWidth="252.0" text="Copyright Reserved ">
+                                    <font>
+                                        <Font size="24.0" />
+                                    </font>
+                                </Label>
+                            </children>
+                        </HBox>
+                    </children>
+                    <styleClass>
+                        <String fx:value="shadow" />
+                        <String fx:value="right-bar" />
+                    </styleClass>
+                    <BorderPane.margin>
+                        <Insets right="20.0" />
+                    </BorderPane.margin>
+                </VBox>
+            </left>
+        </BorderPane>
+    </children>
+</AnchorPane>

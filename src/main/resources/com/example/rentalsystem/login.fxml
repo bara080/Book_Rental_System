@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="539.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rentalsystem.CardController">
+    <children>
+        <Label layoutX="247.0" layoutY="35.0" prefHeight="34.0" prefWidth="106.0" text="Login System" textAlignment="JUSTIFY" />
+        <Button fx:id="loginButton" layoutX="147.0" layoutY="240.0" mnemonicParsing="false" onAction="#loginButtonOnAction" prefHeight="26.0" prefWidth="248.0" text="Login" textFill="#5e2727" />
+        <Button fx:id="cancelButton" layoutX="146.0" layoutY="290.0" mnemonicParsing="false" onAction="#cancelButtonOnAction" prefHeight="26.0" prefWidth="248.0" text="Cancel" />
+        <Label layoutX="100.0" layoutY="116.0" prefHeight="34.0" prefWidth="106.0" text="Username" />
+        <Label layoutX="100.0" layoutY="165.0" prefHeight="34.0" prefWidth="106.0" text="Password" />
+        <PasswordField fx:id="passwordTextField" layoutX="231.0" layoutY="171.0" promptText="Password" style="-fx-border-color: black;" />
+        <TextField fx:id="usernameTextField" layoutX="231.0" layoutY="119.0" promptText="Username" style="-fx-border-color: black;" />
+        <Label layoutX="174.0" layoutY="391.0" prefHeight="34.0" prefWidth="294.0" text="Copyright(c). All Rights Reserved" />
+        <Label layoutX="241.0" layoutY="425.0" prefHeight="34.0" prefWidth="160.0" text="Bara" />
+        <Label fx:id="loginMessageLabel" layoutX="153.0" layoutY="69.0" prefHeight="34.0" prefWidth="294.0" style="-fx-background-color: white;" textFill="#d71a1a" />
+        <Label fx:id="newUserTextField" layoutX="174.0" layoutY="345.0" prefHeight="34.0" prefWidth="90.0" text="New User?" />
+        <Label fx:id="signuptextField" layoutX="271.0" layoutY="345.0" prefHeight="34.0" prefWidth="106.0" text="Signup" />
+    </children>
+</AnchorPane>

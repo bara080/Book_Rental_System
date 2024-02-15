@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e99e602-ccc9-418a-a606-c2d5821ac870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Rental_System" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/CardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/bookRental.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rentalsystem/sceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/3917215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/6172532.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/6416396.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/6422268.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/6454239.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/6844338.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/7211809.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/Account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/Git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/accoutnID.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/chemistry.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/data.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/fix.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/home.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/linkdin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/mba.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/mba1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/mechanics.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/organic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/petroleum.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/petroleum1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/petroluem2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/power.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/python.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/rich.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/robotics.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/searchIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/shoppingCart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (11).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (20).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (21).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/th (9).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/theMba.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/war.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/values/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/views/iindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/Signup.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/book.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/bookRentals.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/card.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/login.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YPlA68fgAS1kexbFQJiSuolLR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bara/Desktop/java_projects/rentalSystem&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/rentalsystem/file:/Users/bara/Desktop/java_projects/rentalSystem/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/rentalsystem" />
+      <recent name="$PROJECT_DIR$/src/main/java/view" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.rentalsystem.Main" />
+      <module name="rentalSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.rentalsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e99e602-ccc9-418a-a606-c2d5821ac870" name="Changes" comment="" />
+      <created>1700434950923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700434950923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/rentalsystem/Main.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

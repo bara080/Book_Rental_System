@@ -1,0 +1,56 @@
+.white-background{
+  -fx-background-color: #ffffff;
+
+}
+
+
+.search-box{
+
+    -fx-background-color: #ffffff;
+     -fx-background-radius: 100;
+
+}
+.transparent {
+
+    -fx-background-color: rgba(0,0,0,0);
+}
+.search-button
+{
+    -fx-background-color: #828282;
+    -fx-background-radius: 30;
+}
+
+.right-bar{
+
+    -fx-background-color: #D3D3D3;
+}
+
+.shadow
+{
+    -fx-effect: dropShadow(three-pass-box, rgba(0,0,0,1), 10.0 , 0.0 , 0.0 , 10.0 );
+}
+.chosen-box-card
+{
+     -fx-background-color: #f16c31;
+      -fx-background-radius: 30;
+}
+.comBox
+{
+     -fx-background-color: #D3D3D3;
+      -fx-background-radius: 30;
+}
+
+.round-layout
+{
+      -fx-background-color: #D7D7D7;
+         -fx-background-radius: 50;
+}
+.selected
+{
+    -fx-background-color: #f3f3f3;
+}
+
+.mouse-moved: hover
+{
+    -fx-background-color: #e4e4e4;
+}

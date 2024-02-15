@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox fx:id="card" alignment="CENTER" prefHeight="160.0" prefWidth="400.0" spacing="20.0" style="-fx-background-radius: 15;" styleClass="shadow" stylesheets="@file:/Users/bara/Desktop/java_projects/rentalSystem/src/main/java/values/Style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rentalsystem.CardController">
+   <children>
+      <ImageView fx:id="bookImage" fitHeight="155.0" fitWidth="155.0" layoutX="29.0" layoutY="18.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:/Users/bara/Desktop/java_projects/rentalSystem/src/main/java/img/mba1.jpeg" />
+         </image>
+         <HBox.margin>
+            <Insets left="10.0" top="5.0" />
+         </HBox.margin></ImageView>
+      <VBox layoutX="184.0" layoutY="-1.0" prefHeight="185.0" prefWidth="214.0" stylesheets="file:/Users/bara/Desktop/java_projects/rentalSystem/src/main/java/values/Style.css">
+         <children>
+            <Label fx:id="bookName" alignment="CENTER" prefHeight="80.0" prefWidth="200.0" text="MBA" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="author" alignment="CENTER" prefHeight="80.0" prefWidth="200.0" text="BUSINESS" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+   </children>
+   <padding>
+      <Insets bottom="10.0" />
+   </padding>
+</HBox>
